@@ -1,0 +1,1 @@
+XML parser to check SVG against [draft-brownlee-svg](http://tools.ietf.org/html/draft-brownlee-svg-rfc).
